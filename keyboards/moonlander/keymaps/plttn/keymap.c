@@ -25,6 +25,7 @@ enum layers {
     SYMB,     // symbols
     MDIA,     // media keys
     GAME,
+    GAME_FUNC // func for games
 };
 
 enum custom_keycodes {
